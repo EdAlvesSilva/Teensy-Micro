@@ -1,0 +1,1 @@
+Diretório contendo o código utilizado pelo Teensy para a expansão científica da PMM (Plataforma Multi Missão) da Equipe Minerva Rockets UFRJ
